@@ -3,7 +3,7 @@
 <!--
 **CoEveleigh26htla/coeveleigh26htla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h>
+<h1>
 
  🔭 I’m currently working on a project
  🌱 I’m currently learning lua
@@ -13,4 +13,4 @@
 📫 How to reach me: dw abt it❤️
  😄 Pronouns: good/boy
  ⚡ Fun fact: I'm 3 🎱
-</h>
+</h1>
